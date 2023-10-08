@@ -12,8 +12,8 @@ parser.add_argument('--modelname', type=str, default='modelname')
 args = parser.parse_args()
 maxlen = 2048
 maxT = 50
-minT = 1
-Vt = 0.7
+minT = 6
+Vt = 0.8
 import copy
 import json
 import os
