@@ -1,5 +1,5 @@
 # RAIN: Your Language Models Can Align Themselves without Finetuning
-[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Liyuhui-12/RAIN/issues) [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Liyuhui-12/RAIN/pulls)
+[![arXiv](https://img.shields.io/badge/arXiv-2309.07124-b31b1b.svg)](https://arxiv.org/abs/2309.07124) [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Liyuhui-12/RAIN/issues) [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Liyuhui-12/RAIN/pulls)
 
 ## Introduction
 
