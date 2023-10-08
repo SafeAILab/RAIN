@@ -30,7 +30,7 @@ The following figure displays the experimental results on the [TruthfulQA datase
 Curious about time overhead? Here it is:
 
 <div align=center>
-<img src="./figs/time.png" alt="Results" style="zoom:33%;" width="40%" height="40%" />
+<img src="./figs/time.png" alt="Results" style="zoom:33%;" width="60%" height="60%" />
 </div>
 
 ## Setup & Installation
