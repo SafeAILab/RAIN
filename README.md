@@ -16,19 +16,21 @@ The following figure displays the experimental results on the [Anthropic’s Hel
 <img src="./figs/hh.png" alt="Results" style="zoom:33%;" width="80%" height="80%" />
 </div>
 
-
+### AdvBench dataset
 The following figure displays the experimental results on the [AdvBench](https://arxiv.org/abs/2307.15043) under [Greedy Coordinate Gradient (GCG) attack](https://arxiv.org/abs/2307.15043). White-box attacks optimize specific attack suffixes by leveraging the gradient of each model, while transfer attacks utilize Vicuna 7B and 13B to optimize a universal attack suffix using a combination of two models’ gradients and subsequently employ it to attack other models.
 
 <div align=center>
 <img src="./figs/adv.png" alt="Results" style="zoom:33%;" width="80%" height="80%" />
 </div>
 
+### TruthfulQA dataset
 The following figure displays the experimental results on the [TruthfulQA dataset](https://arxiv.org/abs/2109.07958) with [LLaMA-2-chat 13B](https://arxiv.org/abs/2307.09288). We fine-tune two GPT-3 models by requesting the service from OpenAI to separately assess whether the model’s responses are truthful and informative.
 
 <div align=center>
 <img src="./figs/truth.png" alt="Results" style="zoom:33%;" width="40%" height="40%" />
 </div>
 
+### Time efficiency
 Curious about the time overhead to vanilla inference? Here it is:
 
 <div align=center>
