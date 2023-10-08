@@ -31,7 +31,7 @@ The following figure displays the experimental results on the [TruthfulQA datase
 </div>
 
 ### Time efficiency
-Curious about the time overhead to vanilla inference? Here it is:
+Curious about the time overhead to vanilla inference? Here it is! Empirically, the overhead is smaller for larger (safer) models.
 
 <div align=center>
 <img src="./figs/time.png" alt="Results" style="zoom:33%;" width="60%" height="60%" />
