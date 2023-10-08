@@ -90,4 +90,4 @@ For technical details and full experimental results, please check [the paper](ht
 ```
 
 ## Contact
-Please contact Yuhui Li at yuhui.li@stu.pku.edu.cn if you have any question on the codes. Enjoy!
+Please contact Yuhui Li at yuhui.li@stu.pku.edu.cn if you have any question on the codes. If you find this repository useful, please consider giving ⭐.
