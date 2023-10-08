@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository is the implementation of [RAIN: Your Language Models Can Align Themselves without Finetuning](https://arxiv.org/abs/2309.07124). **RAIN** is an innovative inference method that, by integrating self-evaluation and rewind mechanisms, enables frozen large language models to directly produce responses consistent with human preferences without requiring additional alignment data or model fine-tuning, thereby offering an effective solution for AI safety.
+**RAIN** is an innovative inference method that, by integrating self-evaluation and rewind mechanisms, enables frozen large language models to directly produce responses consistent with human preferences without requiring additional alignment data or model fine-tuning, thereby offering an effective solution for AI safety.
 
 ## Main Results
 
