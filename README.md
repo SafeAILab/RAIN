@@ -27,7 +27,7 @@ The following figure displays the experimental results on the [TruthfulQA datase
 <img src="./figs/truth.png" alt="Results" style="zoom:33%;" width="40%" height="40%" />
 </div>
 
-Curious about time overhead compared to vanilla inference? Here it is:
+Curious about the time overhead to vanilla inference? Here it is:
 
 <div align=center>
 <img src="./figs/time.png" alt="Results" style="zoom:33%;" width="60%" height="60%" />
