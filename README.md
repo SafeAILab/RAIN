@@ -71,3 +71,17 @@ python allocation.py --dataset yourdata.json  --nump p
 cd truth
 python allocation.py  --nump p
 ```
+
+## Reference
+For technical details and full experimental results, please check [the paper](https://browse.arxiv.org/pdf/2309.07124.pdf).
+```
+@inproceedings{zhang2019theoretically, 
+	author = {Yuhui Li and Fangyun Wei and Jinjing Zhao and Chao Zhang and Hongyang Zhang}, 
+	title = {RAIN: Your Language Models Can Align Themselves without Finetuning}, 
+	booktitle = {arXiv preprint arXiv:2309.07124},
+	year = {2023}
+}
+```
+
+## Contact
+Please contact Yuhui Li at yuhui.li@stu.pku.edu.cn if you have any question on the codes. Enjoy!
