@@ -9,7 +9,7 @@
 
 ### HH dataset
 
-The following figure displays the experimental results on the [Anthropic’s Helpful and Harmless (HH) dataset](https://arxiv.org/abs/2204.05862), showing helpfulness vs. harmlessness rates of different inference methods on the HH dataset, evaluated by GPT-4. Left: [LLaMA](https://arxiv.org/abs/2302.13971) (7B, 13B, 30B, 65B). Right: [LLaMA-2](https://arxiv.org/abs/2307.09288) (7B, 13B, 70B).
+The following figure displays the experimental results on the [Anthropic’s Helpful and Harmless (HH) dataset](https://arxiv.org/abs/2204.05862), showing helpfulness vs. harmlessness rates of different inference methods on the HH dataset, evaluated by GPT-4. **Left:** [LLaMA](https://arxiv.org/abs/2302.13971) (7B, 13B, 30B, 65B). **Right:** [LLaMA-2](https://arxiv.org/abs/2307.09288) (7B, 13B, 70B).
 
 
 <div align=center>
