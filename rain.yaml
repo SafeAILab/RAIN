@@ -1,4 +1,4 @@
-name: rainuploadtest
+name: rain
 channels:
   - defaults
 dependencies:
@@ -89,4 +89,3 @@ dependencies:
     - urllib3==2.0.6
     - xxhash==3.4.1
     - yarl==1.9.2
-prefix: /home/lyh/anaconda3/envs/rainupload
